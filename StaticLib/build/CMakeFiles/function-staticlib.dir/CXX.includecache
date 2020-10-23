@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/header.h
+iostream
+-
+
+/home/marius/StaticLib/src/function.cpp
+iostream
+-
+header.h
+/home/marius/StaticLib/src/header.h
+

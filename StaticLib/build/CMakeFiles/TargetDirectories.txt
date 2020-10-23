@@ -1,0 +1,4 @@
+/home/marius/StaticLib/build/CMakeFiles/edit_cache.dir
+/home/marius/StaticLib/build/CMakeFiles/rebuild_cache.dir
+/home/marius/StaticLib/build/CMakeFiles/myapp.dir
+/home/marius/StaticLib/build/CMakeFiles/function-staticlib.dir
