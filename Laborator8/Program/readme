@@ -1,0 +1,7 @@
+1.make kbuild
+
+2.sudo insmod ./myapp.ko
+   dmesg | tail -7
+
+3.sudo rmmod myapp.ko
+   dmesg | tail -5
